@@ -3,6 +3,7 @@ package ggikko.me.gftestapp;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+//ggikko
 public class MainActivity extends AppCompatActivity {
 
     @Override
