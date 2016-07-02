@@ -4,6 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 //ggikko
+//jihong
 public class MainActivity extends AppCompatActivity {
 
     @Override
